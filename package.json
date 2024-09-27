@@ -19,6 +19,7 @@
   "bin": {
     "hubspot_app_provisioner": "./dist/index.js"
   },
+  "packageManager": "pnpm@8.15.4",
   "license": "MIT",
   "dependencies": {
     "@hubspot/api-client": "^12.0.1",
