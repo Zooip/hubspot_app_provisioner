@@ -1,0 +1,32 @@
+# Node dependencies
+node_modules/
+
+# TypeScript build artifacts
+dist/
+
+# Environment files
+.env.local
+
+# Logs
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Optional npm cache directories
+.npm/
+.pnpm-store/
+
+# Optional TypeScript cache
+*.tsbuildinfo
+
+# IDEs and editor-specific settings
+.idea/
+.vscode/
+
+test/local_config.yml
