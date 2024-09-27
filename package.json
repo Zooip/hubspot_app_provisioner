@@ -1,6 +1,6 @@
 {
   "name": "hubspot_app_provisioner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -26,14 +26,14 @@
     "ajv": "^8.17.1",
     "commander": "^12.1.0",
     "debug": "^4.3.7",
-    "js-yaml": "^4.1.0"
+    "js-yaml": "^4.1.0",
+    "dotenv-flow": "^4.1.0"
   },
   "devDependencies": {
     "@types/debug": "^4.1.12",
     "@types/js-yaml": "^4.0.9",
     "@types/json-schema": "^7.0.15",
     "@types/node": "^22.7.2",
-    "dotenv-flow": "^4.1.0",
     "js-yaml": "^4.1.0",
     "json-schema": "^0.4.0",
     "json-schema-to-typescript": "^15.0.2",
